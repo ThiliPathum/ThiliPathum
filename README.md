@@ -11,7 +11,7 @@
 - 🛠️ Experienced with **Git, GitHub, Jira, Jenkins, and Allure Reports**
 - 🌱 I'm currently learning **Advanced Test Automation, API Automation, CI/CD, and Cybersecurity**
 - 🎓 BSc (Hons) Industrial Information Technology — **Uva Wellassa University of Sri Lanka**
-- 📄 Know about my experience: **[LinkedIn](YOUR_LINKEDIN_URL)**
+- 📄 Know about my experience: **[LinkedIn](in/thilina-pathum-472780304)**
 
 ### Connect with me:
 
