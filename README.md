@@ -62,7 +62,9 @@
   <!-- API -->
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
 </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ThiliPathum&label=Profile%20Views&color=0e75b6&style=flat" alt="ThiliPathum Profile Views" />
+</p>
 ⭐ Feel free to explore my repositories and projects.
 
 Thanks for visiting my profile! 🚀
