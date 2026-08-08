@@ -5,28 +5,29 @@
 I'm an Associate Software Quality Engineer passionate about building reliable,
 secure, and high-quality software.
 
-My interests include software testing, test automation, API testing,
-performance testing, security testing, and cybersecurity.
+My interests include **software testing, test automation, API testing,
+performance testing, security testing, and cybersecurity.**
 
+---
 
-Quality Assurance
+## 🧪 Quality Assurance
 
 - Manual Testing
 - Functional Testing
 - Regression Testing
 - Integration Testing
-- API Testing
 - UI Testing
+- API Testing
 - Test Automation
 - Performance Testing
 - Security Testing
 - User Acceptance Testing (UAT)
 
-  🛠️ Tech Stack
+---
 
-<p> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Allure-FF4785?style=for-the-badge&logo=allure&logoColor=white" /> </p>
+## 🛠️ Tech Stack
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -44,134 +45,112 @@ Quality Assurance
   <img src="https://img.shields.io/badge/Allure-FF4785?style=for-the-badge&logo=allure&logoColor=white" />
 </p>
 
+---
 
- Test Automation
+## 🚀 Featured Projects
 
-Selenium
-Playwright
-Automated UI Testing
-Page Object Model (POM)
-Test Data Management
-Automated Test Reporting
-CI/CD Test Automation
+### 🧪 Test Automation
 
-API & Performance Testing
-
-Postman
-REST API Testing
-API Automation
-Apache JMeter
-Load Testing
-Performance Testing
-
-Cybersecurity
-
-OWASP ZAP
-Web Application Security Testing
-OWASP Top 10
-Vulnerability Testing
-Security Testing
-Cybersecurity Fundamentals
-
-Development
-
-JavaScript
-PHP
-HTML
-CSS
-MySQL
-
-Tools & Technologies
-
-Git
-GitHub
-Jira
-Postman
-Selenium
-Playwright
-Apache JMeter
-OWASP ZAP
-Allure Reports
-CI/CD - Jenkins
-
-GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiliPathum&show_icons=true&theme=tokyonight&hide_border=true" alt="Thilina's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiliPathum&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-Featured Projects
-
-Test Automation
-
-Automated software testing using Selenium and Playwright.
+Automated UI testing using **Selenium and Playwright**.
 
 **Focus:**
-UI automation
-Page Object Model
-Test execution
-Regression testing
-Automated reporting
 
-API Testing
+- UI Automation
+- Page Object Model (POM)
+- Test Execution
+- Regression Testing
+- Test Data Management
+- Automated Test Reporting
+- CI/CD Test Automation
 
-API testing and validation using Postman and automated testing techniques.
+---
 
-**Focus:**
-REST API testing
-Request/response validation
-Status code validation
-Authentication testing
-Negative testing
+### 🔌 API Testing
 
-Performance Testing
-
-Performance and load testing using Apache JMeter.
+API testing and validation using **Postman** and API automation techniques.
 
 **Focus:**
-Load testing
-Stress testing
-Response-time analysis
-Concurrent-user testing
-Performance reports
 
-Security Testing
+- REST API Testing
+- Request & Response Validation
+- Status Code Validation
+- Authentication Testing
+- Negative Testing
+- API Automation
 
-Web application security testing using OWASP ZAP.
+---
+
+### ⚡ Performance Testing
+
+Performance and load testing using **Apache JMeter**.
 
 **Focus:**
-- Vulnerability identification
+
+- Load Testing
+- Stress Testing
+- Concurrent User Testing
+- Response-Time Analysis
+- Performance Monitoring
+- Test Reporting
+
+---
+
+### 🔐 Security Testing
+
+Web application security testing using **OWASP ZAP**.
+
+**Focus:**
+
+- Vulnerability Identification
 - OWASP Top 10
-- Security scanning
-- Authentication testing
-- Security reporting
+- Security Scanning
+- Authentication Testing
+- Web Application Security
+- Security Reporting
 
- Currently Learning
+---
 
-Advanced Test Automation
-Playwright
-API Automation
-CI/CD
-Cybersecurity
-Web Application Security
-Security Testing
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiliPathum&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiliPathum&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Test Automation
+- Playwright
+- API Automation
+- CI/CD
+- Cybersecurity
+- Web Application Security
+- Security Testing
+
+---
+
+## 🎓 Education
+
+**BSc (Hons) Industrial Information Technology**
+
+Uva Wellassa University of Sri Lanka
+
+---
 
 ## 📫 Connect With Me
 
 <p align="left">
   <a href="https://github.com/ThiliPathum">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+---
 
 ⭐ Feel free to explore my repositories and projects.
 
