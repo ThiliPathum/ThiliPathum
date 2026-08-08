@@ -7,7 +7,7 @@
 - 🧪 I'm passionate about **Software Quality, Test Automation, API Testing, and Security Testing**
 - 🤖 I work with **Selenium, Playwright, Postman, and Apache JMeter**
 - 🔐 I'm interested in **Cybersecurity, OWASP Top 10, and Web Application Security**
-- 💻 I also work with **JavaScript, PHP, HTML, CSS, and MySQL**
+- 💻 I also work with **Java, JavaScript, PHP, HTML, CSS, and MySQL**
 - 🛠️ Experienced with **Git, GitHub, Jira, Jenkins, and Allure Reports**
 - 🌱 I'm currently learning **Advanced Test Automation, API Automation, CI/CD, and Cybersecurity**
 - 🎓 BSc (Hons) Industrial Information Technology — **Uva Wellassa University of Sri Lanka**
